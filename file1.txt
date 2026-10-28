@@ -4,3 +4,5 @@ Welcome to my ICT Experiment 6.
 This experiment demonstrates file tracking and commit management using Git.
 
 Git is a distributed version control system.
+
+Git is used for version control and repository maintenance.

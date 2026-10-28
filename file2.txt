@@ -1,0 +1,6 @@
+
+This is the second file of ICT Experiment 6.
+
+GitHub helps us manage files and track changes.
+
+This file demonstrates how new files are added to a repository.
